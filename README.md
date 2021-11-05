@@ -1,11 +1,11 @@
 ## ITF-LAB0511
 
 ## Dockerfile
-'FROM nginx
-COPY public /usr/share/nginx/html'
+''FROM nginx
+COPY public /usr/share/nginx/html''
 
 ## web
-'<HTML>
+''<HTML>
     <head>
         <title>64070100</title>
     </head>
@@ -14,4 +14,4 @@ COPY public /usr/share/nginx/html'
         <h2>64070100</h2>
         <image src="pic.jpg" width="300" height="500" border="20">
     </body>
-</HTML>'
+</HTML>''
